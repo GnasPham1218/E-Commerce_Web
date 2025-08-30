@@ -30,3 +30,4 @@ dist-ssr/
 
 # Operating system generated files
 Thumbs.db
+*.sql
